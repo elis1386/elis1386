@@ -81,7 +81,7 @@ I use tools like **Playwright**, **Cypress**, and **Jest** to catch bugs early, 
 
 | Project | Description |
 |--------|-------------|
-| [**Finnish Language Prep**](#) | A fullstack app to prepare for Finnish language exams with saved sessions, feedback and mock exams (Angular + .NET + Supabase) |
+| [**Finnish Language Prep**](#) | A fullstack app to prepare for Finnish language exams with saved sessions, feedback and mock exams (Angular + Supabase) |
 | [**Angular.Net-App**](https://github.com/elis1386/Angular.Net-App) | A fullstack web application with Angular and ASP.NET Core. Includes PostgreSQL, Entity Framework, Docker setup, and GitHub Actions CI |
 | [**WonderWorld – Frontend**](https://github.com/elis1386/wonderWorld) | A children's library system where users can browse, borrow, and return books. Includes user authentication, book search, and admin panel for managing the catalog |
 | [**WonderWorld – Backend**](https://github.com/elis1386/wonderWorldBack) | Backend for handling book data, user actions, and admin operations. Supports core library functionality such as borrowing, returning, and catalog management |
